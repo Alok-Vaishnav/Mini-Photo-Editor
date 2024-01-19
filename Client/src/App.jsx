@@ -1,6 +1,6 @@
 import './App.css'
-import Edit from './assets/Components/Edit'
-import Filter from './assets/Components/Filter'
+import Edit from './Components/Edit'
+import Filter from './Components/Filter'
 
 function App() {
   return (
